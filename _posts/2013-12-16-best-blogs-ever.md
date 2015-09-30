@@ -26,8 +26,8 @@ For all the websites, I have grouped them by category and added their [Alexa ran
       * Alexa Rank: 1,526
   * [IFTTT Blog](http://blog.ifttt.com/)
       * Alexa Rank: 5,464
-  * [Kinja: How I Work](http://kinja.com/tag/how-i-work)</a<
-      * Alexa Rank, not relevant as this is a tag from [Kinja Blogs](http://www.kinja.com/)) by Gawker
+  * [Kinja: How I Work](http://kinja.com/tag/how-i-work)
+      * Alexa Rank, not relevant as this is a tag from [Kinja Blogs](http://www.kinja.com/) by Gawker
 
 ### Web development
 
@@ -61,10 +61,10 @@ For all the websites, I have grouped them by category and added their [Alexa ran
       * Alexa Rank: 2739
   * [xkcd](http://xkcd.com/)
       * Alexa Rank: 1,924
-      *[What If xkcd](http://what-if.xkcd.com/)
+      * [What If xkcd](http://what-if.xkcd.com/)
 
 &nbsp;
 
 Maybe your blog or site?
 
-What blogs/ sites are you obsessed with?
+What blogs / sites are you obsessed with?
