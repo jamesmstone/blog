@@ -12,59 +12,56 @@ Ok you got me these may not be *the best blogs ever*, however these are the blog
 
 <!--more-->
 
-For all the websites, I have grouped them by category and added their <a href="http://www.alexa.com/" target="_blank">Alexa rank</a> *(as of 26th Nov) *along side the site.
+For all the websites, I have grouped them by category and added their [Alexa rank](http://www.alexa.com/) *(as of 26th Nov) *along side the site.
 
 ## Tech
 
 ### General
 
-  * <a href="http://www.lifehacker.com.au/" target="_blank">Lifehacker AUS</a> 
+  * [Lifehacker AUS](http://www.lifehacker.com.au/)
       * Alexa Rank: 14,003
-  * <a href="http://www.lifehacker.com" target="_blank">Lifehacker USA</a> 
+  * [Lifehacker USA](http://www.lifehacker.com)
       * Alexa Rank: 504
-  * <a href="http://blog.bufferapp.com/" target="_blank">The Buffer Blog</a> 
+  * [The Buffer Blog](http://blog.bufferapp.com/)
       * Alexa Rank: 1,526
-  * <a href="http://blog.ifttt.com/" target="_blank">IFTTT Blog</a> 
+  * [IFTTT Blog](http://blog.ifttt.com/)
       * Alexa Rank: 5,464
-  * <p id="feedlyTitleBar" style="display: inline !important;">
-      <a href="http://kinja.com/tag/how-i-work" target="_blank">Kinja: How I Work</a>
-    </p>
-    
-      * Alexa Rank, not relevant as this is a tag from <a href="http://www.kinja.com/" target="_blank">Kinja Blogs</a> by Gawker
+  * [Kinja: How I Work](http://kinja.com/tag/how-i-work)</a<
+      * Alexa Rank, not relevant as this is a tag from [Kinja Blogs](http://www.kinja.com/)) by Gawker
 
 ### Web development
 
-  * <a href="http://tympanus.net/codrops/" target="_blank">Codrops</a> 
-      * Alexa Rank: 1,403 *****Note: rank for the entire site <a href="http://tympanus.net/" target="_blank">tympanus.net</a>*
-  * <a href="http://css-tricks.com/" target="_blank">CSS Tricks</a> 
+  * [Codrops](http://tympanus.net/codrops/)
+      * Alexa Rank: 1,403 *Note: rank for the entire site [tympanus.net](http://tympanus.net/)*
+  * [CSS Tricks](http://css-tricks.com/)
       * Alexa Rank: 1,051
-  * <a href="http://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a> 
+  * [Smashing Magazine](http://www.smashingmagazine.com/)
       * Alexa Rank: 944
-  * <a href="http://davidwalsh.name/" target="_blank">David Walsh</a> 
+  * [David Walsh](http://davidwalsh.name/)
       * Alexa Rank: 4,526
-  * <a href="http://lea.verou.me/" target="_blank">Lea Verou</a> 
+  * [Lea Verou](http://lea.verou.me/)
       * Alexa Rank: 54,903
-  * <a href="http://webdesignerwall.com/" target="_blank">Web Designer Wall</a> 
+  * [Web Designer Wall](http://webdesignerwall.com/)
       * Alexa Rank: 7,992
 
 ### Web inspiration
 
-  * <a href="http://onepagemania.com/" target="_blank">One Page Mania</a> 
+  * [One Page Mania](http://onepagemania.com/)
       * Alexa Rank: 108,629
-  * <a href="http://www.awwwards.com/" target="_blank">Awwwards</a> 
+  * [Awwwards](http://www.awwwards.com/)
       * Alexa Rank: 2,733
 
 ## Humour
 
-  * <a href="http://www.cracked.com/" target="_blank">Cracked</a> 
+  * [Cracked](http://www.cracked.com/)
       * Alexa Rank: 653
-  * <a href="http://www.explosm.net/" target="_blank">Explosm</a> 
+  * [Explosm](http://www.explosm.net/)
       * Alexa Rank: 3,933
-  * <a href="http://theoatmeal.com/" target="_blank">The Oatmeal</a> 
+  * [The Oatmeal](http://theoatmeal.com/)
       * Alexa Rank: 2739
-  * <a href="http://xkcd.com/" target="_blank">xkcd</a> 
+  * [xkcd](http://xkcd.com/)
       * Alexa Rank: 1,924
-      * <a href="http://what-if.xkcd.com/" target="_blank">What If xkcd</a>
+      *[What If xkcd](http://what-if.xkcd.com/)
 
 &nbsp;
 
