@@ -12,7 +12,7 @@ Ok you got me these may not be *the best blogs ever*, however these are the blog
 
 <!--more-->
 
-For all the websites, I have grouped them by category and added their [Alexa rank](http://www.alexa.com/) *(as of 26th Nov) *along side the site.
+For all the websites, I have grouped them by category and added their [Alexa rank](http://www.alexa.com/) *(as of 26th Nov 13)* along side the site.
 
 ## Tech
 
