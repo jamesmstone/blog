@@ -1,22 +1,15 @@
 language: ruby
 rvm:
 - 2.1
-
 before_script:
- - chmod +x ./scripts/cibuild # or do this locally and commit
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
+- chmod +x ./scripts/cibuild
 script: bash ./scripts/cibuild
-
-# branch whitelist, only for Master
 branches:
   only:
   - master
-
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: ifoTdnGllo+ixAzXPT2tvKE/H5ekO5HTC9beN8GLPMFxdDW8G2kE+jFN/SvDpijcdDMKtfssXNh0I7+/HZ4mAa+HWk5lk2nU7Je4Rw/0BvxeyMmbEj8qPw4cwPT+ObtHukrJiyCFfBCrItNnpMYu3rNW3+UQxmyRf1+Wgnx7gA+TaNWIaLoqe89R436Mv6Zx/vnalcLZVxNo/A5yNLp7AztLwZ50c8hx53dNwVypqhWedQqj2UHldm+iEBwyN300VEVETG+vNotZP39cCpN1CUFYdsSv+O9vbLhtiu/24L81DNrR3gyn+zbu7iMbofEm7QLGxnHYauDvqGk8th/3CHQT1Fm1dpM46mCxT8L8X6zR3CkyMszgtvAmM/Kq1algfdjHxCt3/272mN8dN3AsuyGba/6evuOkQfb9bC9ZM8OW1wedwTAElA7EoZSkFyx5XLG4IlIKdQqdid1lnGabUT2Zk3brrYbXYXC65RG5bewee7iEvfHaX8b0h0rMdP0iVK7alombnik/EBPu8rfDxbQLZxR9429RC19K/GFVXMWztkxukkbOVJfpKjxakAju2xZLRw5L0EYnZ6wBUETMIcCZvVsyqtWSPpEplJWAzfOC9B0iRQ3rvLOJAIM+o/ayn8tcTX/58VX0BLCprUXTMSzFumFw9vom1YpfioLKtLg=
 after_success:
-  - bash ./scripts/deploy
+- bash ./scripts/deploy
