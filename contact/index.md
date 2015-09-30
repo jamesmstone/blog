@@ -9,9 +9,8 @@ sharing_disabled:
 ---
 # Send me an Email
 
-<div id='contact-form-889'>
-</div>
+`jamesmstone [at] hot mail .com`
 
 # Send me a Tweet
 
-<https://twitter.com/jamesmstone711>
+[https://twitter.com/jamesmstone711](https://twitter.com/jamesmstone711)
