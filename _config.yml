@@ -1,0 +1,15 @@
+url: http://blog.jamesst.one
+name: James Stone
+description: A Personal Blog by James Stone.
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+production_url:  http://blog.jamesst.one
+rss_path:        rss.xml
+atom_path:       atom.xml
