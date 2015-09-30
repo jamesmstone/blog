@@ -46,7 +46,7 @@ categories:
 
 ##  Extra points
 
-Sync your new Dropbox music folder to your mobile device using an app like <a href="https://play.google.com/store/apps/details?id=com.doublecore.musicdropnplay&hl=en" target="_blank">MusicDropNPLay</a> for Android or  <a href="https://itunes.apple.com/us/app/tunebox-dropbox-music-player/id475688071" target="_blank">Tunebox</a> for iOS.
+Sync your new Dropbox music folder to your mobile device using an app like <a href="https://play.google.com/store/apps/details?id=com.doublecore.musicdropnplay" target="_blank">MusicDropNPLay</a> for Android or  <a href="https://itunes.apple.com/us/app/tunebox-dropbox-music-player/id475688071" target="_blank">Tunebox</a> for iOS.
 
 ## Further Reading
 

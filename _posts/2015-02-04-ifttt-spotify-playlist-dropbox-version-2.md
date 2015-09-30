@@ -12,7 +12,7 @@ categories:
 ---
 This is a post about an IFTTT recipe I made. Not sure what [IFTTT is][1]?
 
-Unfortunately for sometime now [version 1][2] of these recipes hasn&#8217;t been working.  
+Unfortunately for sometime now [version 1][2] of these recipes hasn&#8217;t been working.
 Now that I have some more time on my hands I have decided to fix it.
 
 ## Improvements
