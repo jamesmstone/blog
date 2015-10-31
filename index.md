@@ -9,6 +9,6 @@ This site is still heavily under development...
 
 {% for post in site.posts %}
     
-####[{{ post.title }}]({{ site.production_url }}{{ post.url }})
+####[{{ post.title }}]({{ post.url }})
 {{ post.date | date_to_long_string }}
 {% endfor %}
