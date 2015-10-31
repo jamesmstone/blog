@@ -3,6 +3,7 @@ https://blog.jamesst.one/atom.xml
 https://blog.jamesst.one/contact/
 https://blog.jamesst.one/
 https://blog.jamesst.one/pages.html
+https://blog.jamesst.one/rss.xml
 https://blog.jamesst.one/sitemap.txt
 
 https://blog.jamesst.one/2015/02/ifttt-spotify-playlist-dropbox-version-2/
