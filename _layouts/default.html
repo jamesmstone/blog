@@ -17,7 +17,7 @@
     <div class="content">
         <div class="row">
             <div class="col-md-9">
-                {% if page.title == "Blog" %}<a href="/rss.xml" class="pull-right"><img
+                {% if page.title == "Blog" %}<a href="/rss.xml" class="pull-right">Feed<img
                     src="/assets/feed-icon-28x28.png"></a>{% endif %}
                 {{ content }}
 
@@ -39,7 +39,6 @@
 {% include analytics.html %}
 
 <script src="http://code.jquery.com/jquery.js"></script>
-<script src="/js/bootstrap.min.js"></script>
 <script type="text/javascript"
         src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>

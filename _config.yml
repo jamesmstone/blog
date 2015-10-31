@@ -1,4 +1,4 @@
-url: https://blog.jamesst.one
+url: http://127.0.0.1:4000/
 name: James Stone
 description: A Personal Blog by James Stone.
 exclude:
@@ -10,6 +10,6 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
-production_url:  https://blog.jamesst.one
+production_url:  http://127.0.0.1:4000/
 rss_path:        rss.xml
 atom_path:       atom.xml
