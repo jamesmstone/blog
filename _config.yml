@@ -22,3 +22,10 @@ defaults:
       type: "pages"
     values:
       menu: none
+      author: James Stone
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      author: James Stone
