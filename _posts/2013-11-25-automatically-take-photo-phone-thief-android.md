@@ -16,7 +16,7 @@ Lockwatch by default has a nice feature enabled to prevent false alarms. This me
 ## Extra Points
 
 <a name="ExtraPoints"></a>
-Want the photo to automatically be added to your dropbox. Using <a title="Why you should use IFTTT?" href="http://blog.jamesstone.com.au/2013/11/ifttt/" target="_blank">IFTTT </a>you can.
+Want the photo to automatically be added to your dropbox. Using <a title="Why you should use IFTTT?" href="/2013/11/ifttt/" target="_blank">IFTTT </a>you can.
 If you follow the steps above and have the email address be a gmail one. You can use the IFTTT recipe below:
 <a class="embed_recipe embed_recipe-l_61" id="embed_recipe-130299" href="https://ifttt.com/view_embed_recipe/130299" target="_blank"><img alt="IFTTT Recipe: Take a photo of a phone thief and add it to dropbox [Android]" src="https://ifttt.com/recipe_embed_img/130299" width="370px" /></a>
 
@@ -31,4 +31,4 @@ If you follow the steps above and have the email address be a gmail one. You can
 
 Need help? Have a suggestion? Please leave a comment
 
- [1]: http://blog.jamesstone.com.au/2013/11/my-ifttt-recipes/ "How I use IFTTT"
+ [1]: /2013/11/my-ifttt-recipes/ "How I use IFTTT"

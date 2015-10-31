@@ -18,7 +18,7 @@ format: video
   * `?type=` to either `?type=full` or `?type=exact`
   * `&uri=` to `&uri=` with your spotify playlist URI appended &#8211; example <http://ifttt.jamesstone.com.au/?type=full&uri=spotify:user:spotify:playlist:4hOKQuZbraPDIfaGbM3lKI> *(Top 100 songs on Spotify)*
 
-<del>This is a post detailing an issue with the <a title="IFTTT: Spotify playlist to Dropbox" href="http://blog.jamesstone.com.au/2013/11/ifttt-spotify-playlist-dropbox/">Spotify playlist to Dropbox recipe</a></del>
+<del>This is a post detailing an issue with the <a title="IFTTT: Spotify playlist to Dropbox" href="/2013/11/ifttt-spotify-playlist-dropbox/">Spotify playlist to Dropbox recipe</a></del>
 
 <del> </del>
 

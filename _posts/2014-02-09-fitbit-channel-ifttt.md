@@ -36,6 +36,6 @@ Speaking of which if you can donate/ find this project helpful or would like to 
 ## Want to keep updated?
 
  [1]: https://ifttt.com/fitbit
- [2]: http://blog.jamesstone.com.au/2013/11/ifttt/ "Why you should use IFTTT?"
+ [2]: /2013/11/ifttt/ "Why you should use IFTTT?"
  [3]: http://ifttt.jamesstone.com.au/fitbit
- [4]: http://blog.jamesstone.com.au/2013/11/im-blogging/ "Why I blog? aka Welcome"
+ [4]: /2013/11/im-blogging/ "Why I blog? aka Welcome"

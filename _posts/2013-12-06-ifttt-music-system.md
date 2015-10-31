@@ -9,7 +9,7 @@ categories:
   - IFTTT
 ---
 <p style="text-align: center;">
-  <img class="aligncenter" alt="Ultimate Music Cover" src="http://blog.jamesstone.com.au/wp-content/uploads/2013/11/Ultimate-Music-Cover.png" width="600" height="400" />
+  <img class="aligncenter" alt="Ultimate Music Cover" src="/wp-content/uploads/2013/11/Ultimate-Music-Cover.png" width="600" height="400" />
 </p>
 
 <p style="text-align: left;">
@@ -24,7 +24,7 @@ categories:
 
 ## The System
 
-[<img class="size-full wp-image-457 aligncenter" alt="Ultimate Music Diagram" src="http://blog.jamesstone.com.au/wp-content/uploads/2013/11/Ultimate-Music-Diagram.png" width="640" height="480" />][1]
+[<img class="size-full wp-image-457 aligncenter" alt="Ultimate Music Diagram" src="/wp-content/uploads/2013/11/Ultimate-Music-Diagram.png" width="640" height="480" />][1]
 
 &nbsp;
 
@@ -41,7 +41,7 @@ categories:
       * Last.fm to IFTTT to Dropbox 
           * <a class="embed_recipe embed_recipe-l_82" id="embed_recipe-70959" href="https://ifttt.com/view_embed_recipe/70959" target="_blank"><img alt="IFTTT Recipe: save #free #music to #dropbox  based on your  #last.fm free music recommendations " src="https://ifttt.com/recipe_embed_img/70959" width="370px" /></a>
       * Dropbox to Blockify to Spotify 
-          * <img class="alignnone size-full wp-image-481" alt="Blockify" src="http://blog.jamesstone.com.au/wp-content/uploads/2013/12/Blockify.png" width="361" height="212" />
+          * <img class="alignnone size-full wp-image-481" alt="Blockify" src="/wp-content/uploads/2013/12/Blockify.png" width="361" height="212" />
           * Open up Blockify  then choose your Dropbox music folder by going Options -> Set Folder
 
 ##  Extra points
@@ -56,8 +56,8 @@ Sync your new Dropbox music folder to your mobile device using an app like <a hr
 
 ###
 
- [1]: http://blog.jamesstone.com.au/wp-content/uploads/2013/11/Ultimate-Music-Diagram.png
+ [1]: /wp-content/uploads/2013/11/Ultimate-Music-Diagram.png
  [2]: http://smutefy.inacho.es
- [3]: http://blog.jamesstone.com.au/2013/11/ifttt-spotify-playlist-dropbox/ "IFTTT: Spotify playlist to Dropbox"
- [4]: http://blog.jamesstone.com.au/2013/11/my-ifttt-recipes/ "How I use IFTTT"
+ [3]: /2013/11/ifttt-spotify-playlist-dropbox/ "IFTTT: Spotify playlist to Dropbox"
+ [4]: /2013/11/my-ifttt-recipes/ "How I use IFTTT"
  [5]: https://ifttt.com/p/jamesmstone
