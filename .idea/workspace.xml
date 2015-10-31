@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1119ebb-3a18-495f-affb-4d1b22ee47d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/css/custom.css" afterPath="$PROJECT_DIR$/_site/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom.css" afterPath="$PROJECT_DIR$/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/automatically-take-photo-phone-thief-android/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/automatically-take-photo-phone-thief-android/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/awesome-list/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/awesome-list/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/google-celebrates-birthday/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/google-celebrates-birthday/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/ifttt/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/ifttt/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/ifttt-spotify-playlist-dropbox/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/ifttt-spotify-playlist-dropbox/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/im-blogging/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/im-blogging/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/my-ifttt-recipes/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/my-ifttt-recipes/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/update-spotify-playlist-dropbox/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/update-spotify-playlist-dropbox/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/best-blogs-ever/index.html" afterPath="$PROJECT_DIR$/_site/2013/12/best-blogs-ever/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/ifttt-music-system/index.html" afterPath="$PROJECT_DIR$/_site/2013/12/ifttt-music-system/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/new-design/index.html" afterPath="$PROJECT_DIR$/_site/2013/12/new-design/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/02/fitbit-channel-ifttt/index.html" afterPath="$PROJECT_DIR$/_site/2014/02/fitbit-channel-ifttt/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/05/cloud-hq/index.html" afterPath="$PROJECT_DIR$/_site/2014/05/cloud-hq/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2015/02/ifttt-spotify-playlist-dropbox-version-2/index.html" afterPath="$PROJECT_DIR$/_site/2015/02/ifttt-spotify-playlist-dropbox-version-2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/contact/index.html" afterPath="$PROJECT_DIR$/_site/contact/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/404.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="$PROJECT_DIR$/_site/pages.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,8 +32,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4177215">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.12155592">
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -141,19 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-11-04-im-blogging.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2013-11-04-im-blogging.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.586207">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -413,7 +379,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32937685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32937685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -541,14 +507,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -728,8 +686,8 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4177215">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.12155592">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>

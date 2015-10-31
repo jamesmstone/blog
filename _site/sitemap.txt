@@ -1,7 +1,8 @@
 
+https://blog.jamesst.one/404.html
 https://blog.jamesst.one/atom.xml
-https://blog.jamesst.one/contact/
 https://blog.jamesst.one/
+https://blog.jamesst.one/contact/
 https://blog.jamesst.one/pages.html
 https://blog.jamesst.one/rss.xml
 https://blog.jamesst.one/sitemap.txt
