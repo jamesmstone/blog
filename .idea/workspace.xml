@@ -3,7 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="a1119ebb-3a18-495f-affb-4d1b22ee47d2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blog.iml" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/automatically-take-photo-phone-thief-android/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/automatically-take-photo-phone-thief-android/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/awesome-list/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/awesome-list/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/google-celebrates-birthday/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/google-celebrates-birthday/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/ifttt/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/ifttt/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/ifttt-spotify-playlist-dropbox/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/ifttt-spotify-playlist-dropbox/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/im-blogging/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/im-blogging/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/my-ifttt-recipes/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/my-ifttt-recipes/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/11/update-spotify-playlist-dropbox/index.html" afterPath="$PROJECT_DIR$/_site/2013/11/update-spotify-playlist-dropbox/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/best-blogs-ever/index.html" afterPath="$PROJECT_DIR$/_site/2013/12/best-blogs-ever/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/ifttt-music-system/index.html" afterPath="$PROJECT_DIR$/_site/2013/12/ifttt-music-system/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/12/new-design/index.html" afterPath="$PROJECT_DIR$/_site/2013/12/new-design/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/02/fitbit-channel-ifttt/index.html" afterPath="$PROJECT_DIR$/_site/2014/02/fitbit-channel-ifttt/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2014/05/cloud-hq/index.html" afterPath="$PROJECT_DIR$/_site/2014/05/cloud-hq/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2015/02/ifttt-spotify-playlist-dropbox-version-2/index.html" afterPath="$PROJECT_DIR$/_site/2015/02/ifttt-spotify-playlist-dropbox-version-2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/contact/index.html" afterPath="$PROJECT_DIR$/_site/contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/pages.html" afterPath="$PROJECT_DIR$/_site/pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
@@ -31,7 +50,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-5.0">
               <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding />
+              <folding>
+                <marker date="1446253883241" expanded="true" signature="93:127" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,21 +67,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.625">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8167116">
+              <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/head.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76">
-              <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+            <state vertical-scroll-proportion="-9.791667">
+              <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2013-11-04-im-blogging.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-11-04-im-blogging.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.586207">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -71,7 +105,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-8.125">
               <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-              <folding />
+              <folding>
+                <marker date="1437410028000" expanded="true" signature="67:751" placeholder="{...}" />
+                <marker date="1437410028000" expanded="true" signature="258:751" placeholder="{...}" />
+                <marker date="1437410028000" expanded="true" signature="397:437" placeholder="/*...*/" />
+                <marker date="1437410028000" expanded="true" signature="454:747" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +153,8 @@
         <option value="$PROJECT_DIR$/_posts/2013-11-04-im-blogging.md" />
         <option value="$PROJECT_DIR$/_posts/2013-11-05-ifttt.md" />
         <option value="$PROJECT_DIR$/_includes/coins.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -275,6 +314,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_layouts" />
     </key>
   </component>
@@ -528,7 +568,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.125">
           <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1437410028000" expanded="true" signature="67:751" placeholder="{...}" />
+            <marker date="1437410028000" expanded="true" signature="258:751" placeholder="{...}" />
+            <marker date="1437410028000" expanded="true" signature="397:437" placeholder="/*...*/" />
+            <marker date="1437410028000" expanded="true" signature="454:747" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,17 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-11-04-im-blogging.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18987341">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-04-ifttt-spotify-playlist-dropbox-version-2.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -577,7 +611,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0">
           <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
+          <folding>
+            <marker date="1446253883241" expanded="true" signature="93:127" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -608,18 +644,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/_posts/2013-11-04-im-blogging.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.625">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.586207">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76">
-          <caret line="57" column="45" selection-start-line="57" selection-start-column="45" selection-end-line="57" selection-end-column="45" />
+        <state vertical-scroll-proportion="-9.791667">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8167116">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
           <folding />
         </state>
       </provider>
