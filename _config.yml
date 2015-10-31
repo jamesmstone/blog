@@ -15,6 +15,9 @@ production_url:  https:blog.jamesst.one
 rss_path:        rss.xml
 atom_path:       atom.xml
 
+
+disqus_short_name: jamesstoneblog
+
 defaults:
   -
     scope:
