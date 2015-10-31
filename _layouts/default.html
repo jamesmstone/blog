@@ -2,8 +2,8 @@
 <html lang="en">
 {% include head.html %}
 <body>
-{% include navigation.html %}
 <div class="container">
+
     <div class="page-header">
         <h1>{{ page.title }}</h1>
         {% if page.title != "Blog" %}
@@ -11,8 +11,9 @@
             {% if page.date %}
                 {{ page.date | date_to_long_string }}
             {% endif %}
-            by
+
             {% if page.authors %}
+            by
                 {% for author in page.authors %}
                     {% if author.orcid %}<a href="{{author.orcid}}">{{ author.given-names }} {{ author.surname }}</a>
                     {% else %}<a href="mailto:{{ author.email }}">{{ author.given-names }} {{ author.surname }}</a>
@@ -27,7 +28,7 @@
         </p>
         {% endif %}
     </div>
-
+    {% include navigation.html %}
     <div class="content">
         <div class="row">
             <div class="col-md-9">
