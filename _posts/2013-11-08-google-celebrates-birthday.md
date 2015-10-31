@@ -10,7 +10,7 @@ categories:
 format: aside
 ---
 <p style="text-align: center;">
-  <img class="size-full wp-image-245 aligncenter" alt="Google Birthday" src="/wp-content/uploads/2013/11/Screenshot-2013-11-07-09.42.46.png" width="671" height="395" />
+  <img class="size-full wp-image-245 aligncenter" alt="Google Birthday" src="/post_assets/Screenshot-2013-11-07-09.42.46.png" width="671" height="395" />
 </p>
 
 Thanks Google. What a cool personalised Google birthday doodle.

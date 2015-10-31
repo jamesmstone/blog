@@ -157,7 +157,7 @@ save to skydrive
 
   1. In Spotify right click on your playlist and select *Copy Spotify URI * 
     <div id="attachment_197" style="width: 278px" class="wp-caption alignnone">
-      <img class="size-full wp-image-197" src="/wp-content/uploads/2013/11/Screenshot-2013-11-06-17.29.24.png" alt="How to Copy Spotify URI" width="268" height="339" />
+      <img class="size-full wp-image-197" src="/post_assets/Screenshot-2013-11-06-17.29.24.png" alt="How to Copy Spotify URI" width="268" height="339" />
       
       <p class="wp-caption-text">
         How to Copy Spotify URI
@@ -167,7 +167,7 @@ save to skydrive
       * Then go to the desired recipe (*links above*)
       * In the URL field paste your *Spotify URI *after the &#8220;=&#8221; sign 
         <div id="attachment_209" style="width: 676px" class="wp-caption alignnone">
-          <img class=" wp-image-209 " src="/wp-content/uploads/2013/11/Screenshot-2013-11-06-18.23.19.png" alt="Paste the Spotify URI after the &quot;=&quot; sign" width="666" height="67" />
+          <img class=" wp-image-209 " src="/post_assets/Screenshot-2013-11-06-18.23.19.png" alt="Paste the Spotify URI after the &quot;=&quot; sign" width="666" height="67" />
           
           <p class="wp-caption-text">
             Paste the Spotify URI after the &#8220;=&#8221; sign
