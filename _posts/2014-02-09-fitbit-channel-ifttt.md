@@ -3,7 +3,7 @@ id: 365
 title: My Fitbit channel for IFTTT
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=365
+guid: http://blog.jamesst.one/?p=365
 permalink: /2014/02/fitbit-channel-ifttt/
 categories:
   - IFTTT

@@ -3,7 +3,7 @@ id: 717
 title: A New Design
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=717
+guid: http://blog.jamesst.one/?p=717
 permalink: /2013/12/new-design/
 categories:
   - Uncategorised

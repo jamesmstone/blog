@@ -3,7 +3,7 @@ id: 525
 title: How to automatically take a photo of a phone thief
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=525
+guid: http://blog.jamesst.one/?p=525
 permalink: /2013/11/automatically-take-photo-phone-thief-android/
 categories:
   - Android

@@ -3,7 +3,7 @@ id: 269
 title: 'Update: Spotify playlist to Dropbox'
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=269
+guid: http://blog.jamesst.one/?p=269
 permalink: /2013/11/update-spotify-playlist-dropbox/
 categories:
   - IFTTT

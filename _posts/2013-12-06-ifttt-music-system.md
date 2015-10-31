@@ -3,7 +3,7 @@ id: 49
 title: The Ultimate Free Music Setup
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=49
+guid: http://blog.jamesst.one/?p=49
 permalink: /2013/12/ifttt-music-system/
 categories:
   - IFTTT

@@ -3,7 +3,7 @@ id: 1105
 title: 'IFTTT: Spotify playlist to Dropbox &#8211; Version 2'
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=1105
+guid: http://blog.jamesst.one/?p=1105
 permalink: /2015/02/ifttt-spotify-playlist-dropbox-version-2/
 switch_like_status:
   - 1

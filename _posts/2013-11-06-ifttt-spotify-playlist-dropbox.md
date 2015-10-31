@@ -3,7 +3,7 @@ id: 193
 title: 'IFTTT: Spotify playlist to Dropbox'
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=193
+guid: http://blog.jamesst.one/?p=193
 permalink: /2013/11/ifttt-spotify-playlist-dropbox/
 categories:
   - IFTTT

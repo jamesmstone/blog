@@ -3,7 +3,7 @@ id: 349
 title: The Best Blogs Ever
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=349
+guid: http://blog.jamesst.one/?p=349
 permalink: /2013/12/best-blogs-ever/
 categories:
   - Uncategorised

@@ -3,7 +3,7 @@ id: 889
 title: Contact
 author: James Stone
 layout: page
-guid: http://blog.jamesstone.com.au/?page_id=889
+guid: http://blog.jamesst.one/?page_id=889
 sharing_disabled:
   - 1
 ---

@@ -3,7 +3,7 @@ id: 41
 title: How I use IFTTT
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=41
+guid: http://blog.jamesst.one/?p=41
 permalink: /2013/11/my-ifttt-recipes/
 categories:
   - IFTTT

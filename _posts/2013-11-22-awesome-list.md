@@ -3,7 +3,7 @@ id: 337
 title: My Awesome Stuff List
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=337
+guid: http://blog.jamesst.one/?p=337
 permalink: /2013/11/awesome-list/
 categories:
   - Uncategorised

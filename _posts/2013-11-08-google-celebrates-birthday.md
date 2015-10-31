@@ -3,7 +3,7 @@ id: 241
 title: Google celebrates your birthday
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=241
+guid: http://blog.jamesst.one/?p=241
 permalink: /2013/11/google-celebrates-birthday/
 categories:
   - Uncategorised

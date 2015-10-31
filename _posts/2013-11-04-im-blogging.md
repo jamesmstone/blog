@@ -3,7 +3,7 @@ id: 21
 title: Why I blog? aka Welcome
 author: James Stone
 layout: post
-guid: http://blog.jamesstone.com.au/?p=21
+guid: http://blog.jamesst.one/?p=21
 permalink: /2013/11/im-blogging/
 categories:
   - Uncategorised
