@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "404 - James' Blog"
+title: "James' Blog"
 ---
 
-## 404 Page not found - Sorry
+## Welcome to James Stone's Personal Blog
 
+This site is still heavily under development...
 
-### Maybe one of my latest posts will interest you:
 {% for post in site.posts %}
     
 ####[{{ post.title }}]({{ site.production_url }}{{ post.url }})
