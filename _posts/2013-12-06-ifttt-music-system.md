@@ -54,7 +54,6 @@ Sync your new Dropbox music folder to your mobile device using an app like <a hr
   * [How else I use IFTTT][4]
   * [My public IFTTT recipes][5]
 
-###
 
  [1]: /post_assets/Ultimate-Music-Diagram.png
  [2]: http://smutefy.inacho.es

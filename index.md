@@ -16,8 +16,10 @@ This site is still heavily under development... but it's getting closer
    {% if rowfinder == 1 %}
    <div class="row">
    {% endif %}
-   <div class="one-third column">
+   <div class="one-third column post">
       <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+      {{ page.date | date_to_long_string }} <br>
+      {{ page.excerpt | markdownify | replace:'height="','max-height="'}}
    </div>
    {% if rowfinder == 0 %}
    </div>

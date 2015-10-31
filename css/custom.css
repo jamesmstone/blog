@@ -56,6 +56,16 @@ tr:hover{
     transition: none;
 }
 
+/* Home Page
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.post{
+    overflow:hidden;
+}
+.post img{
+    max-width: 100%;
+}
+
 /* Other
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Bigger than 550 */
