@@ -17,8 +17,11 @@
     <div class="content">
         <div class="row">
             <div class="col-md-9">
-                {% if page.title == "Blog" %}<a href="/rss.xml" class="pull-right">Feed<img
-                    src="/assets/feed-icon-28x28.png"></a>{% endif %}
+                {% if page.title == "Blog" %}
+                <a href="/rss.xml" class="pull-right">
+                    Feed<img src="/assets/feed-icon-28x28.png">
+                </a>
+                {% endif %}
                 {{ content }}
 
                 {% if page.id %}
