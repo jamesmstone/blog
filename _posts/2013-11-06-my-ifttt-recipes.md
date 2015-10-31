@@ -8,7 +8,7 @@ permalink: /2013/11/my-ifttt-recipes/
 categories:
   - IFTTT
 ---
-After reading&nbsp;<a href="http://aaronfrancis.com/" rel="bookmark">Aaron Francis</a>&#8216; blog [post ][1]about how he uses Evernote and IFTTT I felt inspired to make this post about how I use IFTTT.
+After reading&nbsp;<a href="http://aaronfrancis.com/" rel="bookmark">Aaron Francis</a>&#8216; blog [post](http://aaronfrancis.com/blog/2013/2/26/how-i-use-evernote-and-ifttt) about how he uses Evernote and IFTTT I felt inspired to make this post about how I use IFTTT.
 
 At present I have 22 &nbsp;IFTTT recipes. Here are some of my favourite.
 

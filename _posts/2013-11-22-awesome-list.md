@@ -61,7 +61,6 @@ Not a bucket list &#8211; *just a lot like one* :P
 ## Other items
 
   * Go without Internet for a month
-  * become fluent in another language
   * Go without a computer for a month
   * Die with a smile on my face &#8211; yeah im odd
   * Break a world record – suggestions?? what world record should I attempt?

@@ -8,7 +8,7 @@ permalink: /2014/02/fitbit-channel-ifttt/
 categories:
   - IFTTT
 ---
-UPDATE: 21/5/14 IFTTT has just released an official [fitbit channel][1]. So I recommend everyone uses that. As a result &nbsp;I will discontinue my version &nbsp;at the end of this month. Thanks to everyone who tried and particularly those who tested my fitbit channel. I currently have plans for a 3rd party Snapchat Channel. So keep posted :)
+UPDATE 21/5/14: IFTTT has just released an official [fitbit channel](https://ifttt.com/fitbit). So I recommend everyone uses that. As a result &nbsp;I will discontinue my version &nbsp;at the end of this month. Thanks to everyone who tried and particularly those who tested my fitbit channel. I currently have plans for a 3rd party Snapchat Channel. So keep posted :)
 
 
 

@@ -10,7 +10,7 @@ categories:
 ---
 &nbsp;
 
-[New Version now available][1]
+[New Version now available](/2015/02/ifttt-spotify-playlist-dropbox-version-2/)
 
 * * *
 

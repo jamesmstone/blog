@@ -7,8 +7,9 @@ guid: http://blog.jamesst.one/?p=269
 permalink: /2013/11/update-spotify-playlist-dropbox/
 categories:
   - IFTTT
-format: video
 ---
+How to update to the latest version of this IFTTT Recipe
+
 # Issue Resolved:
 
 ## Steps to implement fix:
