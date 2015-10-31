@@ -1,5 +1,6 @@
 url: https:blog.jamesst.one
 name: James Stone
+title: James' Blog
 description: A Personal Blog by James Stone.
 exclude:
   - README.md
@@ -13,3 +14,11 @@ exclude:
 production_url:  https:blog.jamesst.one
 rss_path:        rss.xml
 atom_path:       atom.xml
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      menu: none

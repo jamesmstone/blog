@@ -1,7 +1,9 @@
 <nav>
-    {% for post in site.pages %}
+    {% for page in site.pages %}
+    {% if page.menu == 'main' %}
     <a href="{{ post.url }}">
-        {{ post.title }}
+        {{ page.title }}
     </a>
+    {% endif %}
     {% endfor %}
 </nav>
