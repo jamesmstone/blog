@@ -1,6 +1,10 @@
 /* Shared
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+body{
+    /*background: url("/images/noise.png"), url('/images/section_background.png') center/cover;*/
+    background: url("/images/noise.png"), #bbbbbb center;
 
+}
 
 /* Nav
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
