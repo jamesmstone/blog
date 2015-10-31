@@ -37,5 +37,5 @@ Speaking of which if you can donate/ find this project helpful or would like to 
 
  [1]: https://ifttt.com/fitbit
  [2]: /2013/11/ifttt/ "Why you should use IFTTT?"
- [3]: http://ifttt.jamesstone.com.au/fitbit
+ [3]: https://github.com/jamesmstone/OUTDATED-ifttt-fitbit
  [4]: /2013/11/im-blogging/ "Why I blog? aka Welcome"
