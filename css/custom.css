@@ -8,11 +8,13 @@ body{
 a{
     color: #41b2e6;
     text-decoration: none;
+    transition: 0.75s;
 }
 a:hover{
     color: #65c9e6;
-    text-decoration: underline;
-    transition: 0.5s;
+    text-decoration: none;
+    border-bottom: 0.05em solid #65c9e6;
+    transition: 0.25s;
 }
 
 h1, h2, h3, h4{
@@ -23,7 +25,7 @@ h1, h2, h3, h4{
 header h1:hover::before{
     position: absolute;
     display: inline-block;
-    content: "←";
+    content: "<-";
     margin-left: -1em;
     transition: 1s;
 }
