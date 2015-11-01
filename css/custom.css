@@ -69,6 +69,14 @@ tr:hover{
     max-width: 100%;
 }
 
+.post time{
+    position: relative;
+    top:-1em;
+    float: right;
+    font-size: 0.9em;
+    color: #747474;
+}
+
 /* Other
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Bigger than 550 */
@@ -84,7 +92,7 @@ tr:hover{
     }
 
     .image {
-        position: absolute;
+        position: relative;
         top: -7rem;
         right: 3rem;
         max-height: 362px;

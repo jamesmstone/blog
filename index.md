@@ -18,7 +18,7 @@ This site is still heavily under development... but it's getting closer
    {% endif %}
    <div class="one-third column post">
       <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
-      {{ page.date | date_to_long_string }} <br>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time> <br>
       {{ page.excerpt | markdownify | replace:'height="','max-height="'}}
    </div>
    {% if rowfinder == 0 %}
