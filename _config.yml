@@ -18,7 +18,7 @@ atom_path:       atom.xml
 
 disqus_short_name: jamesstoneblog
 
-excerpt_separator: <!--more-->
+# excerpt_separator: <!--more-->
 
 defaults:
   -
