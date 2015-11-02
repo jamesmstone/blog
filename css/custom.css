@@ -22,6 +22,10 @@ h1, h2, h3, h4{
 }
 /* Site Header
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+header{
+    margin-top: 2em;
+}
+
 header h1:hover::before{
     position: absolute;
     display: inline-block;
