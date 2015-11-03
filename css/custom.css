@@ -26,12 +26,18 @@ header{
     margin-top: 2em;
 }
 
-header h1:hover::before{
+header h1 a:not(.active):hover::before{
     position: absolute;
     display: inline-block;
     content: "<-";
     margin-left: -1em;
     transition: 1s;
+}
+header h1 a.active:hover {
+    border-bottom: none;
+    pointer-events: none;
+    cursor: default;
+    color: #41b2e6;
 }
 /* Nav
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

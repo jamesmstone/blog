@@ -5,7 +5,7 @@
 <body>
 <div class="container">
     <header>
-        <h1><a href="/">{{ site.title }}</a></h1>
+        <h1><a {% if page.title == "Blog" %} class="active" {% endif %}href="/">{{ site.title }}</a></h1>
     </header>
     {% include navigation.html %}
     <div class="page-header">
