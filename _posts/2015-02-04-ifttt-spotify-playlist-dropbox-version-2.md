@@ -171,14 +171,14 @@ save to skydrive
         
      * In order for the script to work the feed url you just completed in step 3 needs to be loaded once ( without IFTTT) so copy the complete feed url from IFTTT and paste it into your browser</ol> 
         
-  ## How it works
+## How it works
         
   1. The script checks your Spotify playlist
   2. Then song by song it checks to see if the song is available legally for free from Last.fm
   3. If it is the script tells IFTTT to add it to your Dropbox or equivalent.
   4. If it isn’t the script searches Soundcloud for the songs title and artist and then downloads the first *downloadable* song. This is why remixed version are often downloaded.
         
-  ## Other IFTTT recipes
+## Other IFTTT recipes
   
   * I made a post about how I use IFTTT -*[interested][3]?*
   * <a href="https://ifttt.com/p/jamesmstone" target="_blank">My Public IFTTT Profile</a>
