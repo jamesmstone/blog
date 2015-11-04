@@ -155,29 +155,26 @@ save to skydrive
 
 ## Set up Instructions
 
-  1. In Spotify right click on your playlist and select *Copy Spotify URI * 
-    <div id="attachment_197" style="width: 278px" class="wp-caption alignnone">
-      <img class="size-full wp-image-197" src="/post_assets/Screenshot-2013-11-06-17.29.24.png" alt="How to Copy Spotify URI" width="268" height="339" />
-      
-      <p class="wp-caption-text">
-        How to Copy Spotify URI
-      </p>
-    </div></li> 
+  1. In Spotify right click on your playlist and select *Copy Spotify URI
+  
+     ![How to Copy Spotify URI](/post_assets/Screenshot-2013-11-06-17.29.24.png)
+     
+     How to Copy Spotify URI
+
     
       * Then go to the desired recipe (*links above*)
       * In the URL field paste your *Spotify URI *after the &#8220;=&#8221; sign 
-        <div id="attachment_209" style="width: 676px" class="wp-caption alignnone">
-          <img class=" wp-image-209 " src="/post_assets/Screenshot-2013-11-06-18.23.19.png" alt="Paste the Spotify URI after the &quot;=&quot; sign" width="666" height="67" />
+       
+       
+     ![Paste the Spotify URI after the &quot;=&quot; sign](/post_assets/Screenshot-2013-11-06-18.23.19.png)
           
-          <p class="wp-caption-text">
-            Paste the Spotify URI after the &#8220;=&#8221; sign
-          </p>
-        </div></li> 
+     Paste the Spotify URI after the &quot;=&quot; sign
+          
         
           * In order for the script to work the feed url you just completed in step 3 needs to be loaded once ( without IFTTT) so copy the complete feed url from IFTTT and paste it into your browser</ol> 
         
         ## How it works
-        
+        g
           1. The script checks your Spotify playlist
           2. Then song by song it checks to see if the song is available legally for free from Last.fm
           3. If it is the script tells IFTTT to add it to your Dropbox or equivalent.
