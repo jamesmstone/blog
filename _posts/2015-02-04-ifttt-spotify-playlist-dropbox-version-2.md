@@ -164,36 +164,31 @@ save to skydrive
     
       * Then go to the desired recipe (*links above*)
       * In the URL field paste your *Spotify URI *after the &#8220;=&#8221; sign 
-       
-       
+        
      ![Paste the Spotify URI after the &quot;=&quot; sign](/post_assets/Screenshot-2013-11-06-18.23.19.png)
           
-     Paste the Spotify URI after the &quot;=&quot; sign
-          
+     Paste the Spotify URI after the &quot;=&quot; sign    
         
-          * In order for the script to work the feed url you just completed in step 3 needs to be loaded once ( without IFTTT) so copy the complete feed url from IFTTT and paste it into your browser</ol> 
+     * In order for the script to work the feed url you just completed in step 3 needs to be loaded once ( without IFTTT) so copy the complete feed url from IFTTT and paste it into your browser</ol> 
         
-        ## How it works
-        g
-          1. The script checks your Spotify playlist
-          2. Then song by song it checks to see if the song is available legally for free from Last.fm
-          3. If it is the script tells IFTTT to add it to your Dropbox or equivalent.
-          4. If it isn’t the script searches Soundcloud for the songs title and artist and then downloads the first *downloadable* song. This is why remixed version are often downloaded.
+  ## How it works
         
-        ## Other IFTTT recipes
+  1. The script checks your Spotify playlist
+  2. Then song by song it checks to see if the song is available legally for free from Last.fm
+  3. If it is the script tells IFTTT to add it to your Dropbox or equivalent.
+  4. If it isn’t the script searches Soundcloud for the songs title and artist and then downloads the first *downloadable* song. This is why remixed version are often downloaded.
         
-          * I made a post about how I use IFTTT -*[interested][3]?*
-          * <a href="https://ifttt.com/p/jamesmstone" target="_blank">My Public IFTTT Profile</a>
+  ## Other IFTTT recipes
+  
+  * I made a post about how I use IFTTT -*[interested][3]?*
+  * <a href="https://ifttt.com/p/jamesmstone" target="_blank">My Public IFTTT Profile</a>
         
-        ## Help
+## Help
         
-        Need help? Have a suggestion? Please leave a comment
+Need help? Have a suggestion? Please leave a comment
         
-        Note: I&#8217;m still working on the *Download all (Source Last.fm Free Music and Soundcloud)* version Soundcloud API issues so  for now the  *Download all* version is working like the *exact* version, but that is soon to change.
+Note: I&#8217;m still working on the *Download all (Source Last.fm Free Music and Soundcloud)* version Soundcloud API issues so  for now the  *Download all* version is working like the *exact* version, but that is soon to change.
         
-        &nbsp;
-        
-        &nbsp;
 
  [1]: /2013/11/ifttt/ "Why you should use IFTTT?"
  [2]: /2013/11/ifttt-spotify-playlist-dropbox/ "IFTTT: Spotify playlist to Dropbox"
