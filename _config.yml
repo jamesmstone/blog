@@ -11,7 +11,7 @@ exclude:
   - "*.Rmd"
   - vendor
   - .travis.yml
-production_url:  https:blog.jamesst.one
+production_url:  https://blog.jamesst.one
 rss_path:        rss.xml
 atom_path:       atom.xml
 
