@@ -101,7 +101,6 @@ Now that I have some more time on my hands I have decided to fix it.
   </tr>
 </table>
 
-&nbsp;
 
 ## Upgrading to new version
 
@@ -181,7 +180,7 @@ save to skydrive
 ## Other IFTTT recipes
   
   * I made a post about how I use IFTTT -*[interested][3]?*
-  * <a href="https://ifttt.com/p/jamesmstone" target="_blank">My Public IFTTT Profile</a>
+  * [My Public IFTTT Profile](https://ifttt.com/p/jamesmstone)
         
 ## Help
         
