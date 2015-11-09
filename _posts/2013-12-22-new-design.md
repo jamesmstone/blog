@@ -11,6 +11,6 @@ categories:
 I did it! &#8211; I finally got round to designing my own version of the site.
 
 The new design is live now, so please let me know what you think (nothing is perfect the first time).
-<span style="line-height: 1.5em;">Hopefully there are no bugs, but if you see any please let me know by leaving a comment. </span>
+Hopefully there are no bugs, but if you see any please let me know by leaving a comment.
 
-<span style="line-height: 1.5em;">Enjoy the new design.</span>
+Enjoy the new design.

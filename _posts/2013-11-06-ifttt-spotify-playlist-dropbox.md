@@ -8,13 +8,9 @@ permalink: /2013/11/ifttt-spotify-playlist-dropbox/
 categories:
   - IFTTT
 ---
-&nbsp;
-
 [New Version now available](/2015/02/ifttt-spotify-playlist-dropbox-version-2/)
 
 * * *
-
-&nbsp;
 
 This is a post about an IFTTT recipe I made. Not sure what [IFTTT is][2]?
 
@@ -59,47 +55,33 @@ save to skydrive
 ## Set up Instructions
 
   1. In Spotify right click on your playlist and select *Copy Spotify URI * then go to the desired recipe 
-    <div id="attachment_197" style="width: 278px" class="wp-caption alignnone">
-      <img class="size-full wp-image-197" src="/post_assets/Screenshot-2013-11-06-17.29.24.png" alt="How to Copy Spotify URI" width="268" height="339" />
-      
-      <p class="wp-caption-text">
-        How to Copy Spotify URI
-      </p>
-    </div></li> 
     
+      * ![How to Copy Spotify URI](/post_assets/Screenshot-2013-11-06-17.29.24.png) How to Copy Spotify URI
       * Then go to the desired recipe (*links above*)
-      * In the URL field paste your *Spotify URI *after the &#8220;=&#8221; sign ( or you can leave it as  *spotify:user:spotify:playlist:4hOKQuZbraPDIfaGbM3lKI* for [Top 100 tracks currently on Spotify][3] playlist ) 
-        <div id="attachment_209" style="width: 676px" class="wp-caption alignnone">
-          <img class=" wp-image-209 " src="/post_assets/Screenshot-2013-11-06-18.23.19.png" alt="Paste the Spotify URI after the &quot;=&quot; sign" width="666" height="67" />
-          
-          <p class="wp-caption-text">
-            Paste the Spotify URI after the &#8220;=&#8221; sign
-          </p>
-        </div></li> </ol> 
+      * In the URL field paste your *Spotify URI *after the `=` sign ( or you can leave it as  *spotify:user:spotify:playlist:4hOKQuZbraPDIfaGbM3lKI* for [Top 100 tracks currently on Spotify][3] playlist ) 
+      * ![Paste the Spotify URI after the &quot;=&quot; sign](/post_assets/Screenshot-2013-11-06-18.23.19.png) Paste the Spotify URI after the `=` sign
+
+## How it works
         
-        &nbsp;
+ 1. Yahoo pipes checks your spotify playlist
+ 2. Then song by song it checks to see if the song is available legally for free from Last.fm
+ 3. If it is Yahoo Pipes tells IFTTT to add it to your dropbox or equivilent.
+ 4. If it isn&#8217;t Yahoo Pipes searches Soundcloud for the songs title and artist and then downloads the first *downloadable* song. This is why remixed version are often downloaded.
         
-        ## How it works
+## <del>Update: Issues</del>
         
-          1. Yahoo pipes checks your spotify playlist
-          2. Then song by song it checks to see if the song is available legally for free from Last.fm
-          3. If it is Yahoo Pipes tells IFTTT to add it to your dropbox or equivilent.
-          4. If it isn&#8217;t Yahoo Pipes searches Soundcloud for the songs title and artist and then downloads the first *downloadable* song. This is why remixed version are often downloaded.
+<del>The recipes will still work, however the recipes aren&#8217;t triggered as frequently as they should be. [<a title="Update: Spotify playlist to Dropbox" href="/2013/11/update-spotify-playlist-dropbox/">Details</a>]</del>
         
-        ## <del>Update: Issues</del>
+Fixed [[Details][4]]
         
-        <del>The recipes will still work, however the recipes aren&#8217;t triggered as frequently as they should be. [<a title="Update: Spotify playlist to Dropbox" href="/2013/11/update-spotify-playlist-dropbox/">Details</a>]</del>
+## Other IFTTT recipes
         
-        Fixed [[Details][4]]
+  * I recently made a post about how I use IFTTT -*[interested][5]?*
+  * <a href="https://ifttt.com/p/jamesmstone" target="_blank">My Public IFTTT Profile</a>
         
-        ## Other IFTTT recipes
+## Help
         
-          * I recently made a post about how I use IFTTT -*[interested][5]?*
-          * <a href="https://ifttt.com/p/jamesmstone" target="_blank">My Public IFTTT Profile</a>
-        
-        ## Help
-        
-        Need help? Have a suggestion? Please leave a comment
+Need help? Have a suggestion? Please leave a comment
 
  [1]: /2015/02/ifttt-spotify-playlist-dropbox-version-2/ "IFTTT: Spotify playlist to Dropbox – Version 2"
  [2]: /2013/11/ifttt/ "Why you should use IFTTT?"

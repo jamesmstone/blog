@@ -52,7 +52,7 @@ Not a bucket list &#8211; *just a lot like one* :P
 
 ## Cool stuff to <del>dream of </del>master<del>ing</del>
 
-  * <a href="https://en.wikipedia.org/wiki/Shuffling#Riffle" target="_blank">Awesome shuffle card</a>
+  * [Awesome shuffle card](https://en.wikipedia.org/wiki/Shuffling#Riffle)
   * Walking hand stand
   * Flip
   * Song on guitar

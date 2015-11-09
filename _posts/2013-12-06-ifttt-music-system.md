@@ -8,9 +8,8 @@ permalink: /2013/12/ifttt-music-system/
 categories:
   - IFTTT
 ---
-<p style="text-align: center;">
-  <img class="aligncenter" alt="Ultimate Music Cover" src="/post_assets/Ultimate-Music-Cover.png" width="600" height="400" />
-</p>
+
+![Ultimate Music Cover](/post_assets/Ultimate-Music-Cover.png)
 
 <p style="text-align: left;">
   How to get the ultimate free music setup &#8211; <em>ok maybe it&#8217;s not the ultimate setup, but it&#8217;s still pretty cool</em>
@@ -24,20 +23,20 @@ categories:
 
 ## The System
 
-[<img class="size-full wp-image-457 aligncenter" alt="Ultimate Music Diagram" src="/post_assets/Ultimate-Music-Diagram.png" width="640" height="480" />][1]
+[![Ultimate Music Diagram](/post_assets/Ultimate-Music-Diagram.png)][1]
 
-&nbsp;
+
 
   1. Get an account for each service / download the software 
-      * <a href="http://dropbox.com" target="_blank">Dropbox</a>
-      * <a title="IFTTT" href="http://www.ifttt.com" target="_blank">IFTTT</a>
-      * <a title="Spotify" href="https://www.spotify.com/" target="_blank">Spotify</a>
-      * <a title="Blockify" href="http://tribe.nu/Blockify.html" target="_blank">Blockify </a>[windows only] or potentially [Smutefy][2]
-      * <a title="Last.fm" href="http://www.last.fm/" target="_blank">Last.fm</a>
+      * [Dropbox](http://dropbox.com)
+      * [IFTTT](http://www.ifttt.com)
+      * [Spotify](https://www.spotify.com/)
+      * [Blockify](http://tribe.nu/Blockify.html) - windows only or potentially [Smutefy][2]
+      * [Last Fm](http://www.last.fm)
   2. Link them all together 
-      * <a href="http://www.guidingtech.com/16755/enable-last-fm-spotify-windows-mobile/" target="_blank">Spotify to Last.fm</a> 
-          * open up spotify preferences
-          * tick scroble to last.fm and enter your last.fm details
+      * [Spotify to Last.fm](http://www.guidingtech.com/16755/enable-last-fm-spotify-windows-mobile/)
+          * open up Spotify preferences
+          * tick scrobble to Last.Fm and enter your Last.Fm details
       * Last.fm to IFTTT to Dropbox 
           * <a class="embed_recipe embed_recipe-l_82" id="embed_recipe-70959" href="https://ifttt.com/view_embed_recipe/70959" target="_blank"><img alt="IFTTT Recipe: save #free #music to #dropbox  based on your  #last.fm free music recommendations " src="https://ifttt.com/recipe_embed_img/70959" width="370px" /></a>
       * Dropbox to Blockify to Spotify 

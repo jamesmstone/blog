@@ -21,7 +21,7 @@ How to update to the latest version of this IFTTT Recipe
 
 <del>This is a post detailing an issue with the <a title="IFTTT: Spotify playlist to Dropbox" href="/2013/11/ifttt-spotify-playlist-dropbox/">Spotify playlist to Dropbox recipe</a></del>
 
-<del> </del>
+
 
 # <del>Issue</del>
 
@@ -47,12 +47,10 @@ How to update to the latest version of this IFTTT Recipe
           * <del>send current rss file</del>
           * <del>then once sent loads &#8220;live version&#8221; to cache</del>
 
-<del> </del>
+
 
 # <del>Note:</del>
 
 <del>The recipes still work, however they aren&#8217;t trigger as frequently as they should be.</del>
-
-<del> </del>
 
  [1]: http://ifttt.jamesstone.com.au/?type=full&uri=spotify:user:1243953530:playlist:7GLsnDJfs6qFzGyG97LYYF

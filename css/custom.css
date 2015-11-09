@@ -71,6 +71,14 @@ tr:hover{
     transition: none;
 }
 
+/* Images
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+img{
+    text-align: center;
+    display: block;
+}
+
 /* Home Page
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 

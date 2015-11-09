@@ -14,9 +14,7 @@ UPDATE 21/5/14: IFTTT has just released an official [fitbit channel](https://ift
 
 * * *
 
-&nbsp;
-
-My Fitbit channel for [IFTTT&nbsp;][2]is <del>being</del> made &#8211; <del>sorry to get your hopes up :/&nbsp;</del> and i need some people to test it
+My Fitbit channel for [IFTTT][2]is <del>being</del> made &#8211; <del>sorry to get your hopes up :/&nbsp;</del> and i need some people to test it
 
 ## Status
 

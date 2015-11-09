@@ -63,7 +63,6 @@ For all the websites, I have grouped them by category and added their [Alexa ran
       * Alexa Rank: 1,924
       * [What If xkcd](http://what-if.xkcd.com/)
 
-&nbsp;
 
 Maybe your blog or site?
 
