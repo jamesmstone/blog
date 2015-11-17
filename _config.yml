@@ -15,6 +15,7 @@ production_url:  https://blog.jamesst.one
 rss_path:        rss.xml
 atom_path:       atom.xml
 
+github_repository_url: https://github.com/jamesmstone/blog
 
 disqus_short_name: jamesstoneblog
 analytics_google_tracking_id: UA-43095324-4
