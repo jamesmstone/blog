@@ -29,7 +29,7 @@ header{
 header h1 a:not(.active):hover::before{
     position: absolute;
     display: inline-block;
-    content: "<-";
+    content: "\f177";
     margin-left: -1em;
     transition: 1s;
 }
