@@ -6,7 +6,7 @@ menu: main
 
 ## Welcome to James Stone's Personal Blog
 
-This site is still heavily under development... but it's getting closer.
+This site is still heavily under development... but it's *slowly* getting there.
 
 {% assign loopindex = 0 %}
 {% for page in site.posts %}  
