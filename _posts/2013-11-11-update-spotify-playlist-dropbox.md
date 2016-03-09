@@ -53,4 +53,4 @@ How to update to the latest version of this IFTTT Recipe
 
 <del>The recipes still work, however they aren&#8217;t trigger as frequently as they should be.</del>
 
- [1]: http://ifttt.jamesstone.com.au/?type=full&uri=spotify:user:1243953530:playlist:7GLsnDJfs6qFzGyG97LYYF
+ [1]: /2015/02/ifttt-spotify-playlist-dropbox-version-2/
