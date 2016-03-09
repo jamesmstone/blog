@@ -47,4 +47,4 @@ Finally, if you have any questions, suggestions etc please leave a comment or [c
 
  [1]: http://scotthsmith.com/projects/decode/
  [2]: http://scotthsmith.com/
- [3]: http://jamesstone.com.au/#Contact
+ [3]: /contact/
