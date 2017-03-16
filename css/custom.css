@@ -17,7 +17,10 @@ a:hover{
     transition: 0.25s;
 }
 
-h1, h2, h3, h4{
+h1, {
+    color: #3025da;
+}
+h2, h3, h4{
     color: #41b2e6;
 }
 /* Site Header
