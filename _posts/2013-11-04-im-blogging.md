@@ -37,7 +37,7 @@ At the moment I&#8217;m not really sure what job I would like to have. However, 
 
 # Credit where its due
 
-As this is the opening post on this blog, I think it&#8217;s important to give credit to the blogs current design. The theme, [Decode][1], is created by [Scott Smith][2]. However, I&#8217;m keen to create my own theme – *I just haven&#8217;t had the chance yet *
+As this is the opening post on this blog, I think it&#8217;s important to give credit to the blogs current design. The theme, [Decode][1], is created by [Scott Smith][2]. (Edit: 16th Mar 2017, this isn't actively maintained in the same compacity) However, I&#8217;m keen to create my own theme – *I just haven&#8217;t had the chance yet *
 
 I hope you enjoy reading this blog as much as I have so far enjoyed creating it
 
@@ -45,6 +45,6 @@ Finally, if you have any questions, suggestions etc please leave a comment or [c
 
 *James*
 
- [1]: http://scotthsmith.com/projects/decode/
+ [1]: https://scotthsmith.com/projects/decode-archive/
  [2]: http://scotthsmith.com/
  [3]: /contact/
